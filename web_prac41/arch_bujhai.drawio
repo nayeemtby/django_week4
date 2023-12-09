@@ -1,0 +1,25 @@
+<mxfile host="Electron" modified="2023-11-07T15:14:05.769Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="bnK6uG2uLWNvcK3JT7wZ" version="22.0.3" type="device">
+  <diagram name="Page-1" id="t2D-ogkP57jJdXh5_B53">
+    <mxGraphModel dx="2284" dy="1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j_i_52sKcjgO4A7QryoS-1" value="Repository:&lt;br&gt;&lt;br&gt;Add&lt;br&gt;Multiplication&lt;br&gt;Root" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="50" width="250" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="j_i_52sKcjgO4A7QryoS-2" value="BLoC:&lt;br&gt;&lt;br&gt;BlocState state&lt;br&gt;&lt;br&gt;Add():&lt;br&gt;Subtract(): -Add()&lt;br&gt;&lt;br&gt;Average():&lt;br&gt;Add()&lt;br&gt;1/Multiplication" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="280" width="270" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="j_i_52sKcjgO4A7QryoS-4" value="Presentation:&lt;br&gt;&lt;br&gt;Bloc bloc&lt;br&gt;Repository repository&lt;br&gt;&lt;br&gt;repository.Add()&lt;br&gt;&lt;br&gt;bloc.Average()" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="670" width="490" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="j_i_52sKcjgO4A7QryoS-5" value="&amp;nbsp;Firebase Repository:&lt;br&gt;&lt;br&gt;Add&lt;br&gt;Multiplication&lt;br&gt;Root" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="-10" width="250" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="j_i_52sKcjgO4A7QryoS-6" value="&amp;nbsp;Mock Repository:&lt;br&gt;&lt;br&gt;Add&lt;br&gt;Multiplication&lt;br&gt;Root" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-40" y="280" width="250" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
