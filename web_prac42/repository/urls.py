@@ -19,7 +19,7 @@ from django.urls import include, path
 from repository.views import home
 
 urlpatterns = [
-    path('', home),
-    path('musician',include('musician.urls')),
-    path('album',include('album.urls'))
+    path('', home, name='home'),
+    path('musician/',include('musician.urls')),
+    path('album/',include('album.urls'))
 ]

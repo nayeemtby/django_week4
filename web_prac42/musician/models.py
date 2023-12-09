@@ -22,3 +22,4 @@ class Musician(models.Model):
 
     def __str__(self) -> str:
         return self.firstName+' '+self.lastName + '@'+self.phone
+        

@@ -20,7 +20,7 @@ from musician.views import addMusician, deleteMusician, editMusician
 
 
 urlpatterns = [
-    path('add', addMusician),
-    path('edit', editMusician),
-    path('delete', deleteMusician),
+    path('add/', addMusician,name='addMusician'),
+    path('edit/<id>', editMusician,name='editMusician'),
+    path('delete/<id>', deleteMusician,name='deleteMusician'),
 ]

@@ -19,6 +19,6 @@ from album.views import addAlbum, editAlbum
 
 
 urlpatterns = [
-    path('add', addAlbum),
-    path('edit', editAlbum),
+    path('add', addAlbum,name='addAlbum'),
+    path('edit/<id>', editAlbum,name='editAlbum'),
 ]
